@@ -19,7 +19,7 @@ Divides into sentence structure:
 - how
 
 ####2. Synonyms, Antonyms
-Each retrieval has a weighted accuracy to the word it’s referring to. The beauty of abstract is the plasticity of the network. Each response also as a weighted value in relation to the input word. This weight changes given on the machine learning algorithm implemented later. Weighted values can also be applied to neural network structures later.
+Each retrieval has a weighted accuracy to the word it’s referring to. Each response also as a weighted value in relation to the input word. This weight changes given on the machine learning algorithm implemented later. Weighted values can also be applied to neural network structures later.
 
 Example using artibrary weights:
 ```
