@@ -21,7 +21,8 @@ class abstruct:
 		#node names
 		wordVar = nx.Graph()
 		wordVar.add_nodes_from(self.listOfNodes)
-		wordVar.add_edge('logic','subject', weight = .3)
+		for i in range(len(self.listOfNodes)):
+			wordVar.add_edge(wordVar,self.listOfNodes[i], weight = .3)
 		return (wordVar.nodes())
 
 x = abstruct('hate')
