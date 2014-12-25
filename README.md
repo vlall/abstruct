@@ -15,7 +15,7 @@ Divides into sentence structure:
 - what 
 - when
 - where 
-- *why*: Curiosity is key 
+- why
 - how
 
 ####2. Synonyms, Antonyms
