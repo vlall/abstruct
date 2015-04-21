@@ -1,6 +1,5 @@
 abstruct
 ========
-**high-priority project undergoing work**
 
 ##What is abstruct?
 Abstruct is a machine learning library that will utilize numerous aspects of AI using Python. We use the Networkx library to create our nodes.
