@@ -2,7 +2,7 @@ abstruct
 ========
 
 ##What is abstruct?
-Abstruct is a machine learning library that will utilize numerous aspects of AI using Python. We use the Networkx library to create our nodes.
+Abstruct is a machine learning library using Python. We use the Networkx library to create our nodes.
 
 Basic Components:
 
@@ -45,7 +45,5 @@ if (degree < 0 )
 	# abstraction is more broad
 ```
 
-####3. Abstraction via Abduction and Induction
-  Fundamental to the AI aspect of interpreting the NLP data
 	
 	
